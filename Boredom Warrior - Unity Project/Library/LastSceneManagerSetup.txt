@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BoredomWarrior.unity
+  isLoaded: 1
+  isActive: 1

@@ -13,7 +13,6 @@ public class PlayerController : MonoBehaviour {
 	private float moveVelocity;
 	public Transform firePoint;
 	public GameObject sword;
-
 	public int bullets = 10;
 
 	// Use this for initialization
